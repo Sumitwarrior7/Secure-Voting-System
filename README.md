@@ -21,11 +21,11 @@
 
 ## Screenshots
 
-![Login Page](https://github.com/Krish-Depani/Decentralized-Voting-System-Using-Ethereum-Blockchain/blob/main/public/login%20ss.png)
+![Login Page](https://github.com/Sumitwarrior7/Secure-Voting-System/blob/master/public/login%20ss.png)
 
-![Admin Page](https://github.com/Krish-Depani/Decentralized-Voting-System-Using-Ethereum-Blockchain/blob/main/public/admin%20ss.png)
+![Admin Page](https://github.com/Sumitwarrior7/Secure-Voting-System/blob/master/public/admin%20ss.png)
 
-![Voter Page](https://github.com/Krish-Depani/Decentralized-Voting-System-Using-Ethereum-Blockchain/blob/main/public/index%20ss.png)
+![Voter Page](hhttps://github.com/Sumitwarrior7/Secure-Voting-System/blob/master/public/index%20ss.png)
 
 ## Code Structure
 
