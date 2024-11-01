@@ -65,5 +65,5 @@
         ├── README.md                     # Project documentation.
         └── truffle-config.js                    # Truffle configuration file.
 
-## If you like this project, please give it a 🌟.
-## Thank you 😊.
+## If you like this project, please give it a 🌟
+## Thank you 😊
