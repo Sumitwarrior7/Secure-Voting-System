@@ -25,7 +25,7 @@
 
 ![Admin Page](https://github.com/Sumitwarrior7/Secure-Voting-System/blob/master/public/admin%20ss.png)
 
-![Voter Page](hhttps://github.com/Sumitwarrior7/Secure-Voting-System/blob/master/public/index%20ss.png)
+![Voter Page](https://github.com/Sumitwarrior7/Secure-Voting-System/blob/master/public/index%20ss.png)
 
 ## Code Structure
 
